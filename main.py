@@ -1,9 +1,10 @@
 import os
 
-from create_order import process_take_order
+from take_order import process_take_order
 from finalize_order import process_finalize_order
 from edit_order import process_edit_order
 from view_order import process_view_order
+from memory import orders
 
 def main():
     main_manu()
@@ -12,6 +13,7 @@ def main():
     match menu_id: 
         case 1:
             process_take_order()
+            print(orders)
         case 2:
             process_edit_order()
         case 3:
