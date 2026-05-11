@@ -14,7 +14,6 @@ def main():
         match menu_id:
             case 1:
                 process_take_order()
-                print(orders)
             case 2:
                 process_edit_order()
             case 3:
