@@ -2,6 +2,54 @@ menu = [
     {
         "name":"String Hoppers",
         "price":7
+    },
+    {
+        "name":"Egg Hoppers",
+        "price":60
+    },
+    {
+        "name":"Kottu Roti",
+        "price":700
+    },
+    {
+        "name":"Rice and Curry",
+        "price":450
+    },
+    {
+        "name":"Nasi Goreng (Large)",
+        "price":2300
+    },
+    {
+        "name":"Chilli Chicken Pizza",
+        "price":2400
+    },
+    {
+        "name":"Pasta",
+        "price":400
+    },
+    {
+        "name":"Lamprais",
+        "price":550
+    },
+    {
+        "name":"Kiribath",
+        "price":250
+    },
+    {
+        "name":"Sea Food Fried Rice",
+        "price":1750
+    },
+    {
+        "name":"Isso Wade",
+        "price":80
+    },
+    {
+        "name":"Watalappan",
+        "price":120
+    },
+    {
+        "name":"Faluda",
+        "price":150
     }
 ]
 
